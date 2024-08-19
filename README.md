@@ -1,3 +1,10 @@
+# WOW! You found the Beta Branch!
+Not much is different, but do note that all links are for the `cattn` repo, not mine! This includes the deployyment link right below.
+
+Because I have configured my GitHub account differently, using likes like `https://nailington.github.io` may not work, and may throw errors randomly! If you just want the deployment to work and you don't care about beta nonsense go [here](https://github.com/cattn/gba-host)!
+
+
+
 # Quick Deploy Options!
 [<img src="https://www.netlify.com/img/deploy/button.svg">](https://app.netlify.com/start/deploy?repository=https://github.com/Cattn/gba-host)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cattn/gba-host)
