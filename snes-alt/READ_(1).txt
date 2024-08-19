@@ -1,3 +1,0 @@
-The BIOS file "bs-x.bin" is required to play certain BS-X Satellaview games, particularly the BS Fire Emblem games and certain versions of BS F-Zero Grand Prix 2 and BS Excitebike. Place the file in the emulator's BIOS folder.
-
-The "stbios.bin" is generally unnecessary for most setups, but I have it here for those who may need it.

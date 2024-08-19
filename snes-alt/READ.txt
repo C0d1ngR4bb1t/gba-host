@@ -1,2 +1,0 @@
-
-Place all .srm files into emulator's save folder for related ROM hacks to work properly.
