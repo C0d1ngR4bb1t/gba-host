@@ -2,17 +2,17 @@
     "name": "gba-host",
     "consoles": [
         {
-            "name": "GB-ALT",
+            "name": "GB",
             "folder": "gb-alt",
             "core": "mgba"
         },
         {
-            "name": "GBA-ALT",
+            "name": "GBAdvance",
             "folder": "gba-alt",
             "core": "mgba"
         },
         {
-            "name": "GBC-ALT",
+            "name": "GBColor",
             "folder": "gbc-alt",
             "core": "mgba"
         },
